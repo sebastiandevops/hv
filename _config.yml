@@ -1,0 +1,65 @@
+# Site settings
+title: "Sebastián Valencia HV"
+description: "A resume template for Jekyll and GitHub Pages sites."
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Sebastián Valencia Sierra"
+resume_title:                   "Resumen"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "sebasvalencia726@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "+57 3172933325"
+resume_contact_address:         "Calle 79B #42 - 262, Apartamento 3B, Edificio Laure, Barranquilla"
+
+resume_header_contact_info:     "Calle 79B #42 - 262, Apartamento 3B, Barranquilla • +57 3172933325 • sebasvalencia726@gmail.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p align='justify'>Soy un ingeniero de DevOps con 2 años de experiencia en el diseño e implementación de pipelines de CI/CD para un proyecto de migración tecnológica desde las instalaciones del cliente hasta la nube de AWS utilizando Azure DevOps. Tengo experiencia en la implementación de todas las etapas del ciclo de DevOps, incluyendo la integración de código, el análisis estático, las comprobaciones de dependencias, la compilación, el empaquetado y la publicación de artefactos en el repositorio. También he configurado las etapas de despliegue en los diferentes entornos de desarrollo, certificación y producción, implementado pruebas de aceptación, rendimiento y E2E, y la etapa de rollback en ambiente de producción.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+# resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_proeficient_in:  true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/sebastiandevops"
+  resume_twitter_url:           "http://twitter.com/ajinomano"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/sebastianvalenciasierra"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://sebastiandevops.github.io"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+  resume_download_url:          "https://github.com/sebastiandevops/sebastiandevops.github.io/files/11178011/Sebastian.Valencia.CV.pdf"
+  resume_english_url:           "https://sebastiandevops.github.io/cv"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Chilivim
+- project: Chilivim
+  role: Desarrollador
+  duration: 2023 &mdash; Presente
+  # url: "#"
+  description: <p align="justify">Una configuración de un IDE de Neovim desde cero.</p>
+
+# Majority Report Medellín
+- project: Majority Report Medellín
+  role: Desarrollador
+  duration: 2021
+  # url: "#"
+  description: <p align="justify">Majority Report es una iniciativa académica que surge con el propósito de crear una aplicación donde los usuarios puedan ver de manera interactiva las tasas de criminalidad en Medellín, Colombia.</p>
