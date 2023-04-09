@@ -2,14 +2,14 @@
 # DevOps Engineer at Pragma
 - company: Pragma
   position: Ingeniero DevOps
-  duration: Sep, 2022 &mdash; Present
+  duration: Sep, 2022 &mdash; Presente
   summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Diseñar e implementar pipelines de CI/CD para un proyecto de migración de tecnología desde las instalaciones del cliente hacia la nube de AWS utilizando Azure DevOps.</li><li>Implementar Istio service mesh durante un desarrollo interno de la empresa para habilitar la visualización de registros y métricas del clúster utilizando Kiali.</li><li>Herramientas/Tecnologías&#58 Azure DevOps, AWS, Docker, Kubernetes.</li></ul></p>'
 
 # DevOps Engineer at Tech and Solve
 - company: Tech and Solve
   position: Ingeniero DevOps
   duration:  Jun, 2022 &mdash; Sept, 2022
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Implementar plantillas de pipelines de CI/CD usando Azure DevOps durante el despliegue en producción de dos aplicaciones a la nube de Azure.</li><li>Herramientas/Tecnologías&#58 Azure DevOps, Azure Cloud, Docker, Kubernetes, SonarQube.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Implementar pipelines de CI/CD como templates usando Azure DevOps durante el despliegue en producción de dos aplicaciones a la nube de Azure.</li><li>Herramientas/Tecnologías&#58 Azure DevOps, Azure Cloud, Docker, Kubernetes, SonarQube.</li></ul></p>'
 
 # DevOps Engineer at Pragma
 - company: Pragma
