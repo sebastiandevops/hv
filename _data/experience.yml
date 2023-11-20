@@ -1,8 +1,14 @@
 # Jobs
+# DevOps/SRE Engineer at Pragma
+- company: Pragma
+  position: DevOps/SRE Engineer
+  duration: Jul, 2023 &mdash; Present
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Diseño e implementación de CI/CD de Azure DevOps pipelines para optimizar los procesos de desarrollo, prueba e implementación de un proyecto de Sistema de Origen de Hipotecas. Este proyecto forma parte de una iniciativa más amplia para una empresa matriz con sede en EE. UU., que ofrece servicios comerciales y tecnológicos exclusivos bajo etiqueta privada a clientes.</li><li>Encargado de gestionar la Infraestructura como Código (IaC) en la plataforma Azure Cloud, incluyendo la aprovisionamiento y mantenimiento continuo de recursos. Colaborar con un equipo multifuncional para garantizar una integración adecuada de los pipelines con los entornos de desarrollo, prueba y producción.</li><li>Herramientas/Tecnologías&#58 Azure DevOps, Azure Cloud, Docker, SonarCloud.</li></ul></p>'
+
 # DevOps Engineer at Pragma
 - company: Pragma
-  position: Ingeniero DevOps
-  duration: Sep, 2022 &mdash; Presente
+  position: DevOps Engineer
+  duration: Sep, 2022 &mdash; Jun, 2023
   summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Diseñar e implementar pipelines de CI/CD para un proyecto de migración de tecnología desde las instalaciones del cliente hacia la nube de AWS utilizando Azure DevOps.</li><li>Implementar Istio service mesh durante un desarrollo interno de la empresa para habilitar la visualización de registros y métricas del clúster utilizando Kiali.</li><li>Herramientas/Tecnologías&#58 Azure DevOps, AWS, Docker, Kubernetes.</li></ul></p>'
 
 # DevOps Engineer at Tech and Solve
