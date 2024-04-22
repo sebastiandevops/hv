@@ -4,7 +4,7 @@
 - company: Globant
   position: DevOps Engineer
   duration: Feb, 2024 &mdash; Present
-  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Herramientas/Tecnologías&#58 Azure DevOps, Azure Cloud, Ansible, SonarQube.</li></ul></p>'
+  summary: '<p align="justify"><ul class="resume-item-list" align="justify"><li>Desarrollar procesos de validación y remediación para identificar, abordar y resolver automáticamente incidentes de acuerdo con las políticas de calidad y seguridad definidas para los recursos en la nube.</li><li>Herramientas/Tecnologías&#58 Azure DevOps, Azure Cloud, Ansible, SonarQube.</li></ul></p>'
 
 # DevOps/SRE Engineer at Pragma
 - company: Pragma
